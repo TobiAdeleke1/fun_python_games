@@ -1,10 +1,3 @@
-"""
-QR code encoder/ decoder --> using the python qrcode library
-QR CODE will have the data that is encoded
-   can then decode the data
-# maybe do qr code to my githubs account
-# to decode -->pyzbar python module and pillow package
-"""
 import os
 import qrcode
 from pyzbar.pyzbar import decode
