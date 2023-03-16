@@ -18,5 +18,6 @@ def count_down(t):
 
 
 if __name__ == '__main__':
+    print('hello')
     user_input = input("How long do you want the counter in secs: ")
     count_down(int(user_input))
